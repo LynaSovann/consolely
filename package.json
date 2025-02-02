@@ -5,7 +5,12 @@
   "main": "index.js",
   "repository": "https://github.com/LynaSovann/consolely",
   "author": "lyna",
+  "bugs": {
+    "email": "sovannlyna2004@gmail.com",
+    "url": "https://github.com/LynaSovann/consolely"
+  },
   "license": "MIT",
+  "keywords": [ "demo", "test", "learning yarn"],
   "scripts": {
     "test": "node ./test.js"
   }
